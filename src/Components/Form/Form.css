@@ -1,0 +1,43 @@
+.prodTextField{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.prodDescTextField{
+    margin: 10px;
+}
+.prodMediaTextField{
+    display: flex;
+   align-content: flex-start;
+    justify-content: left;
+    margin: 10px;
+}
+.prodVariantLabel{
+    color: gray;
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+.blackButton{
+    display: flex;
+    align-items: flex-start;
+}
+.prodVariant{
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+.seoContainer{
+    margin-top: 20px;
+}
+.seoTextField{
+    padding: 10px; 
+}
+.seoDescTextField{
+    padding: 10px; 
+}
+.fileInput{
+    display: flex;
+    align-items: flex-start; 
+    padding: 10px;   
+}
